@@ -8,3 +8,7 @@ JMP is used in applications such as Six Sigma, quality control, and engineering,
 as well as for research in science, engineering, and social sciences.
 
 Using JMP, I imported a dataset from Kaggle, manipulated the data to draw insights. JMP also helps visualize data.
+
+Dataset used:
+120 years of Olympic history: athletes and results
+athlete_events.csv
